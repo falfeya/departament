@@ -1,0 +1,15 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\MainWindow.baml
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\MainWindow.g.cs
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\App.g.cs
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet_MarkupCompile.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.g.resources
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.Properties.Resources.resources
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.csproj.GenerateResource.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\bin\Debug\depaartet.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\bin\Debug\depaartet.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\bin\Debug\depaartet.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\depaartet\obj\Debug\depaartet.pdb
